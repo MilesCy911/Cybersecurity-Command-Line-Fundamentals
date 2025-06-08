@@ -16,7 +16,7 @@ Get-WmiObject -Class Win32_ComputerSystem
 
 ### CMD
 ```cmd
-query user
+whoami
 ```
 
 ### Bash
